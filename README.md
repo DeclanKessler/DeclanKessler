@@ -1,6 +1,6 @@
 # Hi, I'm Declan Kessler
 
-I'm pursuing a **B.S. in Electrical Engineering at the University of Connecticut**, with a **power systems concentration**, a **3.8 GPA**, and an expected graduation date of **May 2028**.
+I'm pursuing a **B.S. in Electrical Engineering at the University of Connecticut**, with a **power systems concentration**, a **3.5 GPA**, and an expected graduation date of **May 2028**.
 
 I'm seeking **electrical engineering internships in the Syracuse, NY area; Connecticut; or the Washington, DC area**, with interests in power systems, circuit design, PCB design, and hands-on hardware testing and troubleshooting.
 
