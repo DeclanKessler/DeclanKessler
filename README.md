@@ -16,9 +16,9 @@ An in-progress adjustable linear power supply project. The repository includes a
 - AC-to-DC conversion and adjustable linear regulation
 - Component selection and bill-of-materials documentation
 
-### [PCB course — Project 2 hardware](https://github.com/DeclanKessler/PCB-4095/tree/main/projects/project-2)
+### [Light-sensing LED PCB — Course Project 2](https://github.com/DeclanKessler/PCB-4095/tree/main/projects/project-2)
 
-A photograph of the assembled Project 2 PCB, showing copper routing and surface-mount components. Circuit details, design files, and test results will be added as the course project is documented.
+A PCB circuit that senses ambient room light and activates LEDs accordingly. When the light sensor is completely covered, two LEDs blink at **8 Hz**. The repository includes an assembled-board photograph; design files and measured test results will be added as the project is documented.
 
 [View the assembled PCB](https://github.com/DeclanKessler/PCB-4095/blob/main/projects/project-2/images/assembled-pcb.jpg).
 
@@ -28,7 +28,7 @@ Relevant coursework includes circuit design, signals and systems, digital logic,
 
 | Repository | Focus | Current contents |
 | --- | --- | --- |
-| [PCB-4095](https://github.com/DeclanKessler/PCB-4095) | PCB design coursework | Project 2 assembled-board photo and overview |
+| [PCB-4095](https://github.com/DeclanKessler/PCB-4095) | PCB design coursework | Light-sensing LED PCB: Project 2 photo and functional overview |
 | [ECE-2001](https://github.com/DeclanKessler/ECE-2001) | ECE 2001 coursework | Course overview; project files to be added |
 | [Other-ECE-classes](https://github.com/DeclanKessler/Other-ECE-classes) | Additional ECE projects | Collection overview; project files to be added |
 
