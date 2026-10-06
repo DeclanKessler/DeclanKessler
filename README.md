@@ -16,6 +16,8 @@ An in-progress adjustable linear power supply project. The repository includes a
 - AC-to-DC conversion and adjustable linear regulation
 - Component selection and bill-of-materials documentation
 
+The repository also includes a [Python design calculator](https://github.com/DeclanKessler/Linear-Power-Supply/blob/main/docs/design-calculations.md) for first-order ripple, regulator headroom, dissipation, and thermal estimates, with numerical tests and documented assumptions.
+
 ### [Light-sensing LED PCB — Course Project 2](https://github.com/DeclanKessler/PCB-4095/tree/main/projects/project-2)
 
 A PCB circuit that senses ambient room light and activates LEDs accordingly. When the light sensor is completely covered, two LEDs blink at **8 Hz**. The repository includes an assembled-board photograph; design files and measured test results will be added as the project is documented.
@@ -23,6 +25,8 @@ A PCB circuit that senses ambient room light and activates LEDs accordingly. Whe
 I completed the **circuit and PCB design, copper-board etching, and component soldering** for this project.
 
 [View the assembled PCB](https://github.com/DeclanKessler/PCB-4095/blob/main/projects/project-2/images/assembled-pcb.jpg).
+
+A [functional test plan and measurement log](https://github.com/DeclanKessler/PCB-4095/blob/main/projects/project-2/test-plan.md) are available to document light response and verify the reported blink rate.
 
 ## Coursework
 
