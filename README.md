@@ -20,6 +20,8 @@ An in-progress adjustable linear power supply project. The repository includes a
 
 A PCB circuit that senses ambient room light and activates LEDs accordingly. When the light sensor is completely covered, two LEDs blink at **8 Hz**. The repository includes an assembled-board photograph; design files and measured test results will be added as the project is documented.
 
+I completed the **circuit and PCB design, copper-board etching, and component soldering** for this project.
+
 [View the assembled PCB](https://github.com/DeclanKessler/PCB-4095/blob/main/projects/project-2/images/assembled-pcb.jpg).
 
 ## Coursework
@@ -28,13 +30,13 @@ Relevant coursework includes circuit design, signals and systems, digital logic,
 
 | Repository | Focus | Current contents |
 | --- | --- | --- |
-| [PCB-4095](https://github.com/DeclanKessler/PCB-4095) | PCB design coursework | Light-sensing LED PCB: Project 2 photo and functional overview |
+| [PCB-4095](https://github.com/DeclanKessler/PCB-4095) | PCB design coursework | Project 1 KiCad schematic/layout and Project 2 light-sensing LED hardware |
 | [ECE-2001](https://github.com/DeclanKessler/ECE-2001) | ECE 2001 coursework | Course overview; project files to be added |
-| [Other-ECE-classes](https://github.com/DeclanKessler/Other-ECE-classes) | Additional ECE projects | Collection overview; project files to be added |
+| [Other-ECE-classes](https://github.com/DeclanKessler/Other-ECE-classes) | Additional ECE projects | Circuits II final-project video and sound-activated-light LTspice draft |
 
 ## Additional circuit project experience
 
-The following projects are described in my résumé. Their design files and detailed write-ups are not yet published on GitHub.
+The following projects are described in my résumé. An [LTspice draft for the sound-activated light](https://github.com/DeclanKessler/Other-ECE-classes/tree/main/projects/sound-activated-light) is available; detailed write-ups and artifacts for the other projects are still to be added.
 
 | Project | Experience |
 | --- | --- |
@@ -46,7 +48,7 @@ The following projects are described in my résumé. Their design files and deta
 ## Technical skills
 
 - **Programming and hardware description:** Python, C, VHDL
-- **Circuit and design tools:** LTspice, LogicWorks, Onshape, CAD
+- **Circuit and design tools:** KiCad, LTspice, LogicWorks, Onshape, CAD
 - **Hands-on hardware:** circuit prototyping, soldering, wiring, multimeter use, and debugging
 - **Engineering practice:** root cause analysis, electrical troubleshooting, and technical documentation
 
